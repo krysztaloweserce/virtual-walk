@@ -1,0 +1,3185 @@
+﻿{
+  "default": {
+    "author": "Alicja Krystofiak",
+    "firstScene": "start",
+    "sceneFadeDuration": 1500
+  },
+  "scenes": {
+    "start": {
+      "title": "Shelf 7 & 8: BlueDolphin / Lakma",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "autoRotate": 5,
+      "autoRotateInactivityDelay": 15000,	  
+      "hotSpotDebug": false,
+      "showControls": true,
+      "hfov": 200,
+      "panorama": "../gal/20.jpg",
+      "yaw": 154.18917112824678,
+      "hotSpots": [
+        {
+          "pitch": -34.76062331017762,
+          "yaw": 42.57576550950457,
+          "type": "scene",
+          "sceneId": "19",
+          "targetYaw": 96.77399581417644
+        },
+        {
+          "pitch": -29.50648601839045,
+          "yaw": -138.12758593445085,
+          "type": "scene",
+          "sceneId": "21"
+        },
+        {
+          "pitch": -21.32058072496936,
+          "yaw": -138.12758593445085,
+          "type": "scene",
+          "sceneId": "22",
+          "targetYaw": -139.36861655016654
+        },
+        {
+          "pitch": 8.461737456549347,
+          "yaw": 136.72054533972064,
+          "type": "info",
+          "text": "Sanitary Silicone 300 ml",
+          "URL": "https://www.realbud.com/en/sanitary-silicone-transparent-300-ml-1649.html"
+        },
+        {
+          "pitch": 6.234121380439855,
+          "yaw": 92.53585122182837,
+          "type": "info",
+          "text": "Universal Silicone Sealant transparent 300 ml",
+          "URL": "https://www.realbud.com/en/universal-silicone-sealant-transparent-300-ml-1652.html"
+        },
+        {
+          "pitch": 8.326522821617225,
+          "yaw": 122.5337316184753,
+          "type": "info",
+          "text": "Universal Silicone Sealant white 300 ml",
+          "URL": "https://www.realbud.com/en/universal-silicone-sealant-white-280-ml-1651.html"
+        },
+        {
+          "pitch": 6.787279893602227,
+          "yaw": 102.8107171156391,
+          "type": "info",
+          "text": "Silikon sanitarny bezbarwny",
+          "URL": "https://www.realbud.com/pl/silikon-sanitarny-300-ml-bezbarwny-1649.html"
+        },
+        {
+          "pitch": 6.787279893602227,
+          "yaw": 102.8107171156391,
+          "type": "info",
+          "text": "Sanitary Silicone transparent 300 ml",
+          "URL": "https://www.realbud.com/en/sanitary-silicone-transparent-300-ml-1649.html"
+        },
+        {
+          "pitch": 9.472262510064661,
+          "yaw": 148.0196822663268,
+          "type": "info",
+          "text": "Silicone adhesive for mirrors 300 ml",
+          "URL": "https://www.realbud.com/en/silicone-adhesive-for-mirrors-300-ml-3310.html"
+        },
+        {
+          "pitch": -26.531361538897553,
+          "yaw": 98.33548305501458,
+          "type": "info",
+          "text": "White filling acryl 310 ml",
+          "URL": "https://www.realbud.com/en/white-filling-acryl-310-ml-1644.html"
+        },
+        {
+          "pitch": -23.86211416387098,
+          "yaw": 88.05234047981436,
+          "type": "info",
+          "text": "Universal acrylic sealing agent SILAK A for drywall",
+          "URL": "https://www.realbud.com/en/akryl-do-plyt-gk-2660.html"
+        },
+        {
+          "pitch": -32.800582578772264,
+          "yaw": 145.17677801285325,
+          "type": "info",
+          "text": "Gunfoam Low-Expansion Lakma 750 ml",
+          "URL": "https://www.realbud.com/en/gunfoam-low-expansion-lakma-750-ml-37.html"
+        },
+        {
+          "pitch": -44.015611726511885,
+          "yaw": 91.18824404917058,
+          "type": "info",
+          "text": "Gunfoam Low-Expansion Lakma 750 ml",
+          "URL": "https://www.realbud.com/en/gunfoam-low-expansion-lakma-750-ml-37.html"
+        },
+        {
+          "pitch": -50.32806166254425,
+          "yaw": 138.2578945739389,
+          "type": "info",
+          "text": "Polyurethane adhesive for expanded polystyrene and XPS Lakma Term",
+          "URL": "https://www.realbud.com/en/polyurethane-adhesive-for-expanded-polystyrene-and-xps-lakma-term-3313.html"
+        },
+        {
+          "pitch": 13.381127978317847,
+          "yaw": 177.91369934313136,
+          "type": "info",
+          "text": "Foam gun",
+          "URL": "https://www.realbud.com/en/foam-gun-3088.html"
+        },
+        {
+          "pitch": -6.8042109359296985,
+          "yaw": 180.28797132793616,
+          "type": "info",
+          "text": "All-purpose foam cleaner Lakma Mountflex",
+          "URL": "https://www.realbud.com/en/all-purpose-foam-cleaner-lakma-mountflex-4138.html"
+        },
+        {
+          "pitch": -27.80220354390366,
+          "yaw": 179.04677570707463,
+          "type": "info",
+          "text": "Foam with straw Herkules 750 ml",
+          "URL": "https://www.realbud.com/en/foam-with-straw-herkules-750-ml-3309.html"
+        },
+        {
+          "pitch": -46.520520023145465,
+          "yaw": 179.6211234242484,
+          "type": "info",
+          "text": "Gunfoam Fire Rated Lakma 750 ml",
+          "URL": "https://www.realbud.com/en/gunfoam-fire-rated-lakma-750-ml-1996.html"
+        }
+      ]
+    },
+    "1": {
+      "title": "Stalco",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/01.jpg",
+      "yaw": 80.24592102738498,
+      "hotSpots": [
+        {
+          "pitch": -31.661852604642178,
+          "yaw": 42.6530662050767,
+          "type": "scene",
+          "sceneId": "2",
+          "targetYaw": -93.86355540192731
+        },
+        {
+          "pitch": -30.502966331905004,
+          "yaw": 111.96016277771082,
+          "type": "scene",
+          "sceneId": "11",
+          "targetYaw": 101.50637508697947
+        },
+        {
+          "pitch": -29.430163576891104,
+          "yaw": 169.5368679142262,
+          "type": "scene",
+          "sceneId": "12",
+          "targetYaw": 120.8896423031927
+        },
+        {
+          "pitch": -14.220426859611376,
+          "yaw": 169.5368679142262,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": -9.44418941247853,
+          "yaw": 169.5368679142262,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -1.8375851209558194,
+          "yaw": 166.89047137491374,
+          "type": "scene",
+          "sceneId": "25"
+        },
+        {
+          "pitch": 30.394346081654756,
+          "yaw": 78.19831964605369,
+          "type": "info",
+          "text": "Gogle",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=gogle&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -5.953172108522777,
+          "yaw": 80.41662664997166,
+          "type": "info",
+          "text": "Ochrona twarzy i głowy",
+          "URL": "https://www.realbud.com/pl/bhp-56#/kategorie-ochrona_twarzy_i_glowy/producent-stalco"
+        },
+        {
+          "pitch": -5.953172108522777,
+          "yaw": 80.41662664997166,
+          "type": "info",
+          "text": "Ochrona twarzy i głowy",
+          "URL": "https://www.realbud.com/pl/bhp-56#/kategorie-ochrona_twarzy_i_glowy/producent-stalco"
+        },
+        {
+          "pitch": -7.557135159841583,
+          "yaw": -114.695692087058,
+          "type": "info",
+          "text": "Rękawice",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=r%C4%99kawice&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "2": {
+      "title": "Regał 1 i 2: Stalco",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/02.jpg",
+      "yaw": 83.34923007935703,
+      "hotSpots": [
+        {
+          "pitch": -25.15995578140451,
+          "yaw": 77.13812494216411,
+          "type": "scene",
+          "sceneId": "1",
+          "targetYaw": 125.96058120067157
+        },
+        {
+          "pitch": -36.19952962040259,
+          "yaw": -93.86700526963851,
+          "type": "scene",
+          "sceneId": "3"
+        },
+        {
+          "pitch": -27.23821205334694,
+          "yaw": -94.03724846692847,
+          "type": "scene",
+          "sceneId": "4"
+        },
+        {
+          "pitch": -16.887982507283642,
+          "yaw": -94.20754292104998,
+          "type": "scene",
+          "sceneId": "5"
+        },
+        {
+          "pitch": -12.688118655763429,
+          "yaw": -90.81475906866056,
+          "type": "scene",
+          "sceneId": "6"
+        },
+        {
+          "pitch": 7.557135159841583,
+          "yaw": -191.695692087058,
+          "type": "info",
+          "text": "Wiertła",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=wiert%C5%82o&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -8.388460795088264,
+          "yaw": -149.1604108482066,
+          "type": "info",
+          "text": "Brzeszczoty",
+          "URL": "https://www.realbud.com/pl/pily-brzeszczoty-strugi-zdzieraki-791"
+        },
+        {
+          "pitch": 34.25407984983735,
+          "yaw": 4.339395152273409,
+          "type": "info",
+          "text": "Piły",
+          "URL": "https://www.realbud.com/pl/pily-brzeszczoty-strugi-zdzieraki-791"
+        },
+        {
+          "pitch": -43.5178346537901,
+          "yaw": 5.8037932741451295,
+          "type": "info",
+          "text": "Siekiery",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=wiert%C5%82o&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 5.003523239644536,
+          "yaw": -3.6091415310345187,
+          "type": "info",
+          "text": "Miary",
+          "URL": "https://www.realbud.com/pl/pomiarowe--181"
+        },
+        {
+          "pitch": -56.81998284576157,
+          "yaw": 25.650830358783843,
+          "type": "info",
+          "text": "Młotki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=m%C5%82ot&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -30.195863071314445,
+          "yaw": -53.074594423429076,
+          "type": "info",
+          "text": "Młotki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=m%C5%82ot&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -48.557135159841583,
+          "yaw": -57.695692087058,
+          "type": "info",
+          "text": "Kłódki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=k%C5%82%C3%B3dka&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "3": {
+      "title": "Regał 1 i 2: Stalco",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/03.jpg",
+      "yaw": -53.54366091533649,
+      "hotSpots": [
+        {
+          "pitch": -16.416262185204555,
+          "yaw": 118.70633063037043,
+          "type": "scene",
+          "sceneId": "1"
+        },
+        {
+          "pitch": -37.021305366077186,
+          "yaw": 128.40000993846343,
+          "type": "scene",
+          "sceneId": "2",
+          "targetYaw": 89.62537405178789
+        },
+        {
+          "pitch": -36.29103158465089,
+          "yaw": -57.4995831818386,
+          "type": "scene",
+          "sceneId": "4"
+        },
+        {
+          "pitch": -24.36073345313254,
+          "yaw": -54.773540582827565,
+          "type": "scene",
+          "sceneId": "5"
+        },
+        {
+          "pitch": -15.624192401020958,
+          "yaw": -50.67964329352914,
+          "type": "scene",
+          "sceneId": "6"
+        },
+        {
+          "pitch": -15.388460795088264,
+          "yaw": -178.95903906169636,
+          "type": "info",
+          "text": "Brzeszczoty",
+          "URL": "https://www.realbud.com/pl/pily-brzeszczoty-strugi-zdzieraki-791"
+        },
+        {
+          "pitch": 6.346588153747246,
+          "yaw": -120.14260198445781,
+          "type": "info",
+          "text": "Wiertła",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=wiert%C5%82&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -7.1544683739365675,
+          "yaw": 3.67383437043906,
+          "type": "info",
+          "text": "Szczypce, klucze, noże",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=wiert%C5%82&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 0.9152673117904204,
+          "yaw": 96.88399841625385,
+          "type": "info",
+          "text": "Miary",
+          "URL": "https://www.realbud.com/pl/pomiarowe--181"
+        },
+        {
+          "pitch": -28.68672579274046,
+          "yaw": 99.40600494797073,
+          "type": "info",
+          "text": "Młotki, siekiery",
+          "URL": "https://www.realbud.com/pl/mlotki-siekiery-imadla-792"
+        }
+      ]
+    },
+    "4": {
+      "title": "Regał 1 i 2: Stalco",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/04.jpg",
+      "yaw": 83.68851927493517,
+      "hotSpots": [
+        {
+          "pitch": -11.722245828049742,
+          "yaw": -101.9727114486459,
+          "type": "scene",
+          "sceneId": "1",
+          "targetYaw": 125.96058120067157
+        },
+        {
+          "pitch": -22.202661136250967,
+          "yaw": -96.87122656027383,
+          "type": "scene",
+          "sceneId": "2"
+        },
+        {
+          "pitch": -35.163238114717075,
+          "yaw": -96.2591719199601,
+          "type": "scene",
+          "sceneId": "3",
+          "targetYaw": 127.22002698126855
+        },
+        {
+          "pitch": -32.74052442096413,
+          "yaw": 79.83006395957449,
+          "type": "scene",
+          "sceneId": "5"
+        },
+        {
+          "pitch": -22.555357613604937,
+          "yaw": 87.49548414377655,
+          "type": "scene",
+          "sceneId": "6"
+        },
+        {
+          "pitch": -7.1544683739365675,
+          "yaw": 3.67383437043906,
+          "type": "info",
+          "text": "Tarcze diamentowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=tarcza+diam&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 33.43487177005831,
+          "yaw": 169.65700872292769,
+          "type": "info",
+          "text": "Wkrętaki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=wkr%C4%99tak&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -5.614041844689826,
+          "yaw": 174.26186871985598,
+          "type": "info",
+          "text": "Krzyżyki do glazury",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=krzy%C5%BCyk&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -0.948788763621901,
+          "yaw": 114.43651840515633,
+          "type": "info",
+          "text": "Poziomnice",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=poziomnica&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -46.195009317080185,
+          "yaw": 179.38000984151293,
+          "type": "info",
+          "text": "Wyciskacze do mas",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=wyciskacz&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "5": {
+      "title": "Regał 1 i 2: Stalco",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/05.jpg",
+      "yaw": -95.78832734598055,
+      "hotSpots": [
+        {
+          "pitch": -10.599758267258526,
+          "yaw": 78.2264817604447,
+          "type": "scene",
+          "sceneId": "1",
+          "targetYaw": 125.96058120067157
+        },
+        {
+          "pitch": -17.6793252684223,
+          "yaw": 83.68012288384305,
+          "type": "scene",
+          "sceneId": "2"
+        },
+        {
+          "pitch": -28.461851992765535,
+          "yaw": 84.0213856956358,
+          "type": "scene",
+          "sceneId": "3",
+          "targetYaw": 127.22002698126855
+        },
+        {
+          "pitch": -37.32364522019831,
+          "yaw": 84.19198228640988,
+          "type": "scene",
+          "sceneId": "4",
+          "targetYaw": -97.3172258746522
+        },
+        {
+          "pitch": -29.770479255964492,
+          "yaw": -71.28265851332063,
+          "type": "scene",
+          "sceneId": "6"
+        },
+        {
+          "pitch": 15.71799023151605,
+          "yaw": 150.22215157807645,
+          "type": "info",
+          "text": "Piły tarczowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=pi%C5%82a+tarczowa&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -19.783862753403646,
+          "yaw": 142.37140451082226,
+          "type": "info",
+          "text": "Szczotki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=szczotka&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -15.59584467873788,
+          "yaw": 193.14426905445544,
+          "type": "info",
+          "text": "Łopaty",
+          "URL": "https://www.realbud.com/pl/ogrodnicze-182"
+        },
+        {
+          "pitch": 2.1254061580249957,
+          "yaw": -14.43651840515633,
+          "type": "info",
+          "text": "Poziomnice",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=poziomnica&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "6": {
+      "title": "Regał 1 i 2: Stalco",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/06.jpg",
+      "yaw": -76.66970173854791,
+      "hotSpots": [
+        {
+          "pitch": -6.621266979777933,
+          "yaw": -27.62613058206447,
+          "type": "scene",
+          "sceneId": "1",
+          "targetYaw": 125.96058120067157
+        },
+        {
+          "pitch": -10.297782526666195,
+          "yaw": -23.70185085643281,
+          "type": "scene",
+          "sceneId": "2"
+        },
+        {
+          "pitch": -15.1618143794526,
+          "yaw": -23.190145808738954,
+          "type": "scene",
+          "sceneId": "3",
+          "targetYaw": 127.22002698126855
+        },
+        {
+          "pitch": -22.028984118503303,
+          "yaw": -21.99747174808098,
+          "type": "scene",
+          "sceneId": "4",
+          "targetYaw": -97.3172258746522
+        },
+        {
+          "pitch": -33.0570195549867,
+          "yaw": -20.977255502921707,
+          "type": "scene",
+          "sceneId": "5",
+          "targetYaw": 83.34923007935703
+        },
+        {
+          "pitch": -27.59249988655506,
+          "yaw": -87.23362478354314,
+          "type": "scene",
+          "sceneId": "7"
+        },
+        {
+          "pitch": -15.521199369931571,
+          "yaw": -108.8214708251457,
+          "type": "scene",
+          "sceneId": "17",
+          "targetYaw": 77.10741420443576
+        },
+        {
+          "pitch": -5.037925907600015,
+          "yaw": -113.56909809407591,
+          "type": "scene",
+          "sceneId": "19",
+          "targetYaw": -72.40887865924066
+        },
+        {
+          "pitch": -10.859820301299084,
+          "yaw": 11.428116384296988,
+          "type": "info",
+          "text": "Łopaty",
+          "URL": "https://www.realbud.com/pl/ogrodnicze-182"
+        },
+        {
+          "pitch": -4.153228049696776,
+          "yaw": -53.18302318952863,
+          "type": "info",
+          "text": "Poziomnice",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=poziomnica&submit_search=+Szukaj"
+        },
+        {
+          "pitch":-0.47519841718249106,
+          "yaw": 57.085010863500386,
+          "type": "info",
+          "text": "Narzędzia i akcesoria",
+          "URL": "https://www.realbud.com/pl/narzedzia-i-akcesoria-16"
+        },
+        {
+          "pitch": -3.7512105061766445,
+          "yaw": 174.00578709645157,
+          "type": "info",
+          "text": "Instalacje wewnętrzne",
+          "URL": "https://www.realbud.com/pl/instalacje-wewnetrzne-15"
+        }
+      ]
+    },
+    "7": {
+      "title": "Regał 3 i 4: Stalco / Dedra",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/07.jpg",
+      "yaw": -61.3952027023754,
+      "hotSpots": [
+        {
+          "pitch": -24.551229356244697,
+          "yaw": 31.93371444044787,
+          "type": "scene",
+          "sceneId": "5",
+          "targetYaw": 83.34923007935703
+        },
+        {
+          "pitch": -30.47045209706062,
+          "yaw": 57.09612272293914,
+          "type": "scene",
+          "sceneId": "6"
+        },
+        {
+          "pitch": -37.22549594032302,
+          "yaw": -29.39059221946706,
+          "type": "scene",
+          "sceneId": "8",
+          "targetYaw": 117.40758143937286
+        },
+        {
+          "pitch": -26.311024292577567,
+          "yaw": -29.39059221946706,
+          "type": "scene",
+          "sceneId": "9"
+        },
+        {
+          "pitch": -18.45270350091458,
+          "yaw": -29.39059221946706,
+          "type": "scene",
+          "sceneId": "10"
+        },
+        {
+          "pitch": -12.269128440392064,
+          "yaw": -29.39059221946706,
+          "type": "scene",
+          "sceneId": "11"
+        },
+        {
+          "pitch": -23.94486112679486,
+          "yaw": -88.121579909963,
+          "type": "scene",
+          "sceneId": "17"
+        },
+        {
+          "pitch": -12.501634847073063,
+          "yaw": -116.57482968464842,
+          "type": "scene",
+          "sceneId": "19"
+        },
+        {
+          "pitch": -1.1404482164156813,
+          "yaw": 2.9023536304705893,
+          "type": "info",
+          "text": "Ochrona dłoni i nóg",
+          "URL": "https://www.realbud.com/pl/ochrona-dloni-i-nog-198"
+        },
+        {
+          "pitch": 8.263263379103368,
+          "yaw": -71.57202892098144,
+          "type": "info",
+          "text": "Tarcze",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=tarcza&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -5.112675195443002,
+          "yaw": -60.45636741437744,
+          "type": "info",
+          "text": "Piły tarczowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=pi%C5%82a+tarczowa&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 8.061107798951564,
+          "yaw": 155.23179215764154,
+          "type": "info",
+          "text": "Instalacje wewnętrzne",
+          "URL": "https://www.realbud.com/pl/instalacje-wewnetrzne-15"
+        }
+      ]
+    },
+    "8": {
+      "title": "Regał 3 i 4: Stalco / Dedra",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/08.jpg",
+      "yaw": -61.06673443876608,
+      "hotSpots": [
+        {
+          "pitch": -28.071011815016334,
+          "yaw": -114.81955311548958,
+          "type": "scene",
+          "sceneId": "6"
+        },
+        {
+          "pitch": -34.44470753181566,
+          "yaw": -49.3666470484396,
+          "type": "scene",
+          "sceneId": "7"
+        },
+        {
+          "pitch": -39.371712389971535,
+          "yaw": 114.57636625417392,
+          "type": "scene",
+          "sceneId": "9"
+        },
+        {
+          "pitch": -29.509572800914476,
+          "yaw": 114.74518371881791,
+          "type": "scene",
+          "sceneId": "10"
+        },
+        {
+          "pitch": -18.980660439187773,
+          "yaw": 115.08312720822856,
+          "type": "scene",
+          "sceneId": "11"
+        },
+        {
+          "pitch": -10.270533465098291,
+          "yaw": 116.26886862105194,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -22.20790795730041,
+          "yaw": -11.645865070920305,
+          "type": "scene",
+          "sceneId": "17"
+        },
+        {
+          "pitch": -7.3904174363874353,
+          "yaw": -50.66427558535358,
+          "type": "info",
+          "text": "Instalacje wewnętrzne",
+          "URL": "https://www.realbud.com/pl/instalacje-wewnetrzne-15"
+        },
+        {
+          "pitch": -3.3904174363874353,
+          "yaw": -150.66427558535358,
+          "type": "info",
+          "text": "Ochrona dłoni i nóg",
+          "URL": "https://www.realbud.com/pl/ochrona-dloni-i-nog-198"
+        },
+        {
+          "pitch": -24.895075037537502,
+          "yaw": 153.28284759078053,
+          "type": "info",
+          "text": "Hełm przemysłowy",
+          "URL": "https://www.realbud.com/pl/helm-przemyslowy-3244.html"
+        },
+        {
+          "pitch": 13.299778057378726,
+          "yaw": 6.57202892098144,
+          "type": "info",
+          "text": "Tarcze",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=tarcza&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -14.040597502091371,
+          "yaw": 32.85921978814329,
+          "type": "info",
+          "text": "Piły tarczowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=pi%C5%82a+tarczowa&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -0.9011978847862641,
+          "yaw": 67.78921978814329,
+          "type": "info",
+          "text": "Narzędzia glazurnicze",
+          "URL": "https://www.realbud.com/pl/glazurnicze-798"
+        }
+      ]
+    },
+    "9": {
+      "title": "Regał 3 i 4: Stalco / Dedra",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/09.jpg",
+      "yaw": -147.13462849201582,
+      "hotSpots": [
+        {
+          "pitch": -25.75271743723627,
+          "yaw": 33.52369319648099,
+          "type": "scene",
+          "sceneId": "7"
+        },
+        {
+          "pitch": -37.30222230379777,
+          "yaw": 32.671556787234465,
+          "type": "scene",
+          "sceneId": "8"
+        },
+        {
+          "pitch": -33.54358061073195,
+          "yaw": -149.05345417405698,
+          "type": "scene",
+          "sceneId": "10"
+        },
+        {
+          "pitch": -22.73481840901119,
+          "yaw": -149.3932697403498,
+          "type": "scene",
+          "sceneId": "11"
+        },
+        {
+          "pitch": -14.342040634223308,
+          "yaw": -149.05345417405698,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -1.3522023661282836,
+          "yaw": 35.20222472065109,
+          "type": "info",
+          "text": "Instalacje wewnętrzne",
+          "URL": "https://www.realbud.com/pl/instalacje-wewnetrzne-15"
+        },
+        {
+          "pitch": 5.2936327554885185,
+          "yaw": 3.792730394405872,
+          "type": "info",
+          "text": "Ochrona dłoni i nóg",
+          "URL": "https://www.realbud.com/pl/ochrona-dloni-i-nog-198"
+        },
+        {
+          "pitch": -25.361248904099323,
+          "yaw": -24.011360797814188,
+          "type": "info",
+          "text": "Hełm przemysłowy",
+          "URL": "https://www.realbud.com/pl/helm-przemyslowy-3244.html"
+        },
+        {
+          "pitch": 5.064558650913701,
+          "yaw": 65.57202892098144,
+          "type": "info",
+          "text": "Tarcze",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=tarcza&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -17.69381019855714,
+          "yaw": 64.05921978814329,
+          "type": "info",
+          "text": "Piły tarczowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=pi%C5%82a+tarczowa&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 23.052383460195365,
+          "yaw": 89.9691893304677,
+          "type": "info",
+          "text": "Piłka do glazury 15 cm",
+          "URL": "https://www.realbud.com/pl/pilka-do-glazury-15-cm-3606.html"
+        },
+        {
+          "pitch": -5.955263334717425,
+          "yaw": 99.02921978814329,
+          "type": "info",
+          "text": "Narzędzia glazurnicze",
+          "URL": "https://www.realbud.com/pl/glazurnicze-798"
+        },
+        {
+          "pitch": -16.7558168336398,
+          "yaw": 163.62538517874447,
+          "type": "info",
+          "text": "Klucze nastawne",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=klucz+nast&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -19.47047248836869,
+          "yaw": -102.90980278837222,
+          "type": "info",
+          "text": "Odzież robocza",
+          "URL": "https://www.realbud.com/pl/odziez-robocza-196"
+        },
+        {
+          "pitch": 8.67221217597096,
+          "yaw": 145.55715671343367,
+          "type": "info",
+          "text": "Spirale do udrażniania kanalizacji",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=spirala&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -5.43732011850682,
+          "yaw": 129.70007819352207,
+          "type": "info",
+          "text": "Obcinak do rur Ø3-35 mm",
+          "URL": "https://www.realbud.com/pl/obcinak-do-rur-o3-35-mm-3570.html"
+        },
+        {
+          "pitch": -20.71973253901272,
+          "yaw": 130.04056063075825,
+          "type": "info",
+          "text": "Obcinak do rur Ø3-30 mm",
+          "URL": "https://www.realbud.com/pl/obcinak-do-rur-o3-30-mm-3569.html"
+        },
+        {
+          "pitch": -20.682534201221365,
+          "yaw": 136.5080912096271,
+          "type": "info",
+          "text": "Obcinak do rur Ø3-22 mm",
+          "URL": "https://www.realbud.com/pl/obcinak-do-rur-o3-22-mm-3568.html"
+        },
+        {
+          "pitch": -8.01444174488098,
+          "yaw": 149.61409417482622,
+          "type": "info",
+          "text": "Klucz paskowy BOA ALU",
+          "URL": "https://www.realbud.com/pl/obcinak-do-rur-o3-22-mm-3568.html"
+        },
+        {
+          "pitch": -31.291318454861795,
+          "yaw": 133.4083956360146,
+          "type": "info",
+          "text": "Klucze nastawne do rur CRV",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=klucz+nastawny+do+rur+crv&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -34.86155275730592,
+          "yaw": 162.06805700117917,
+          "type": "info",
+          "text": "Miarki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=miara+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -47.68522305570228,
+          "yaw": 115.08807914551822,
+          "type": "info",
+          "text": "Gąbka do fugowania KOMBI skośna",
+          "URL": "https://www.realbud.com/pl/gabka-do-fugowania-kombi-skosna-3581.html"
+        },
+        {
+          "pitch": -48.97002505098356,
+          "yaw": 121.5153269442062,
+          "type": "info",
+          "text": "Gąbka plastikowa",
+          "URL": "https://www.realbud.com/pl/gabka-plastikowa-3579.html"
+        },
+        {
+          "pitch": -34.86155275730592,
+          "yaw": 162.06805700117917,
+          "type": "info",
+          "text": "Gąbka ORIGINAL HYDRO",
+          "URL": "https://www.realbud.com/pl/gabka-original-hydro-3580.html"
+        },
+        {
+          "pitch": 23.556002538885988,
+          "yaw": 133.38392314012347,
+          "type": "info",
+          "text": "Palnik do papy",
+          "URL": "https://www.realbud.com/pl/palnik-do-papy-dysza-90-cm-1781.html"
+        }
+      ]
+    },
+    "10": {
+      "title": "Regał 3 i 4: Stalco / Dedra",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/10.jpg",
+      "yaw": -64.46328462454996,
+      "hotSpots": [
+        {
+          "pitch": -16.118696485022607,
+          "yaw": 117.654637943802,
+          "type": "scene",
+          "sceneId": "7"
+        },
+        {
+          "pitch": -25.205917877128282,
+          "yaw": 117.31327518086674,
+          "type": "scene",
+          "sceneId": "8"
+        },
+        {
+          "pitch": -36.127056280065645,
+          "yaw": 117.82533447508149,
+          "type": "scene",
+          "sceneId": "9",
+          "targetYaw": 35.04222683373501
+        },
+        {
+          "pitch": -36.127056280065645,
+          "yaw": -64.89312525821288,
+          "type": "scene",
+          "sceneId": "11"
+        },
+        {
+          "pitch": -22.203283867389743,
+          "yaw": -64.03961229767332,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -14.294907415340315,
+          "yaw": 156.90980278837222,
+          "type": "info",
+          "text": "Klucze nastawne",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=klucz+nast&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -11.085129867218111,
+          "yaw": 59.37980278837222,
+          "type": "info",
+          "text": "Odzież robocza",
+          "URL": "https://www.realbud.com/pl/odziez-robocza-196"
+        },
+        {
+          "pitch": 11.8691465124402,
+          "yaw": 161.81133783613151,
+          "type": "info",
+          "text": "Spirale do udrażniania kanalizacji",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=spirala&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -6.056508529645122,
+          "yaw": 155.79432287077148,
+          "type": "info",
+          "text": "Klucz paskowy BOA ALU",
+          "URL": "https://www.realbud.com/pl/obcinak-do-rur-o3-22-mm-3568.html"
+        },
+        {
+          "pitch": -20.90676802291285,
+          "yaw": 147.9674213384206,
+          "type": "info",
+          "text": "Klucze nastawne do rur CRV",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=klucz+nastawny+do+rur+crv&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -40.848953993129335,
+          "yaw": 169.34946758993124,
+          "type": "info",
+          "text": "Miarki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=miara+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -31.872324607447844,
+          "yaw": 146.4205628103505,
+          "type": "info",
+          "text": "Gąbki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=g%C4%85bka&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 15.336630521538767,
+          "yaw": 148.28663935251976,
+          "type": "info",
+          "text": "Palnik do papy",
+          "URL": "https://www.realbud.com/pl/palnik-do-papy-dysza-90-cm-1781.html"
+        },
+        {
+          "pitch": -2.231885736797712,
+          "yaw": -171.18685085238923,
+          "type": "info",
+          "text": "Opaski zaciskowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=opaski+zaciskowe&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 23.823462105823346,
+          "yaw": -143.41022060080502,
+          "type": "info",
+          "text": "Noże",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=n%C3%B3%C5%BC+z+ostrzem&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -1.0245844714825265,
+          "yaw": 216.8624783765067,
+          "type": "info",
+          "text": "Miarki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=miara+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -4.57534757991412,
+          "yaw": -129.14893979957705,
+          "type": "info",
+          "text": "Poziomnica POP",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=poziomnica+pop&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 10.29078847046014,
+          "yaw": -106.41022060080502,
+          "type": "info",
+          "text": "Papiery ścierne",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=papiery+%C5%9Bcierne&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -8.190365516877183,
+          "yaw": -120.26526548309262,
+          "type": "info",
+          "text": "Zszywacze",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=zszywacz&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -19.26093338367851,
+          "yaw": -114.79853265278427,
+          "type": "info",
+          "text": "Zszywki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=zszywki+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -29.270879423010253,
+          "yaw": -119.15011021435014,
+          "type": "info",
+          "text": "Klej topliwy / Pistolet klejowy",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=klej+top&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -41.854533603812534,
+          "yaw": -100.64571579835275,
+          "type": "info",
+          "text": "Zestaw wkrętaków",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=zestaw+wkr&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -30.475885365249475,
+          "yaw": -94.03676544307393,
+          "type": "info",
+          "text": "Odkurzacz 1600W",
+          "URL": "https://www.realbud.com/pl/odkurzacz-1600-w-3590.html"
+        },
+        {
+          "pitch": -27.79631083684189,
+          "yaw": -87.39846000691756,
+          "type": "info",
+          "text": "Odkurzacz 1200W",
+          "URL": "https://www.realbud.com/pl/odkurzacz-1200-w-3593.html"
+        }
+      ]
+    },
+    "11": {
+      "title": "Regał 3 i 4: Stalco / Dedra",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/11.jpg",
+      "yaw": -76.09934184107057,
+      "hotSpots": [
+        {
+          "pitch": -27.793620531854042,
+          "yaw": -45.18379789355264,
+          "type": "scene",
+          "sceneId": "1",
+          "targetYaw": 138.39806250231155
+        },
+        {
+          "pitch": -12.216725272710145,
+          "yaw": 100,
+          "type": "scene",
+          "sceneId": "7"
+        },
+        {
+          "pitch": -18.447893115765236,
+          "yaw": 100,
+          "type": "scene",
+          "sceneId": "8"
+        },
+        {
+          "pitch": -25.214321930856503,
+          "yaw": 100,
+          "type": "scene",
+          "sceneId": "9",
+          "targetYaw": 35.04222683373501
+        },
+        {
+          "pitch": -35.00699988345933,
+          "yaw": 100,
+          "type": "scene",
+          "sceneId": "10",
+          "targetYaw": 117.92201886207216
+        },
+        {
+          "pitch": -30.67074566110189,
+          "yaw": -101.23594400001485,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -4.980610561584281,
+          "yaw": 133.13289437796917,
+          "type": "info",
+          "text": "Miarki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=miara+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -15.396784204327027,
+          "yaw": 172.36466111447868,
+          "type": "info",
+          "text": "Tarcze listkowe",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=tarcza+listkowa+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -34.00399811195712,
+          "yaw": 162.76121875518578,
+          "type": "info",
+          "text": "Miara stalowa zwijana 30 m",
+          "URL": "https://www.realbud.com/pl/miara-stalowa-zwijana-30-m-x-125-mm-abs-3832.html"
+        },
+        {
+          "pitch": -34.83280146115193,
+          "yaw": 182.63615809614305,
+          "type": "info",
+          "text": "Miara stalowa zwijana 50 m",
+          "URL": "https://www.realbud.com/pl/miara-stalowa-zwijana-50-m-x-125-mm-abs-3842.html"
+        },
+        {
+          "pitch": 5.204766084909637,
+          "yaw": 143.77367331903923,
+          "type": "info",
+          "text": "Poziomnica POP",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=poziomnica+pop&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -13.935304574020687,
+          "yaw": 147.34918963275848,
+          "type": "info",
+          "text": "Zszywacze",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=zszywacz&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -19.7224967326443,
+          "yaw": 150.99642574695767,
+          "type": "info",
+          "text": "Zszywki",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=zszywki+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -24.413982169374282,
+          "yaw": 152.19190641432175,
+          "type": "info",
+          "text": "Klej topliwy / Pistolet klejowy",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=klej+top&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 13.270767921604508,
+          "yaw": -199.20744256620384,
+          "type": "info",
+          "text": "Papiery ścierne",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=papiery+%C5%9Bcierne+dedra&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -49.73999237167913,
+          "yaw": -203.02066460583004,
+          "type": "info",
+          "text": "Zestaw wkrętaków 7 szt.",
+          "URL": "https://www.realbud.com/pl/zestaw-wkretakow-7-szt-3492.html"
+        },
+        {
+          "pitch": -53.363163025041345,
+          "yaw": -192.6106726469653,
+          "type": "info",
+          "text": "Zestaw wkrętaków CrV",
+          "URL": "https://www.realbud.com/pl/zestaw-wkretakow-crv-3493.html"
+        },
+        {
+          "pitch": -53.926373486108695,
+          "yaw": -183.52013545558535,
+          "type": "info",
+          "text": "Zestaw wkrętaków 6 szt.",
+          "URL": "https://www.realbud.com/pl/zestaw-wkretakow-6-szt-3494.html"
+        },
+        {
+          "pitch": -2.6275389047624134,
+          "yaw": -167.18584419124616,
+          "type": "info",
+          "text": "Szlifierka do powierzchni gipsowanych",
+          "URL": "https://www.realbud.com/pl/szlifierka-710-w-do-powierzchni-gipsowanych-3658.html"
+        },
+        {
+          "pitch": 12.083449840147109,
+          "yaw": -150.3999999254942,
+          "type": "info",
+          "text": "Szlifierka do gipsotynków",
+          "URL": "https://www.realbud.com/pl/szlifierka-do-gipsotynkow-1010-w-krotka-3684.html"
+        },
+        {
+          "pitch": 28.06276362699198,
+          "yaw": -145.24595607953276,
+          "type": "info",
+          "text": "Szlifierka wysięgnikowa do gipsotynków",
+          "URL": "https://www.realbud.com/pl/szlifierka-wysiegnikowa-do-gipsotynkow-710-w-3683.html"
+        },
+        {
+          "pitch": -10.793083308410699,
+          "yaw": -153.08085152869666,
+          "type": "info",
+          "text": "Mieszadło elektryczne 1600W",
+          "URL": "https://www.realbud.com/pl/mieszadlo-elektryczne-1600w-2-biegi-3287.html"
+        },
+        {
+          "pitch": -23.46021593257081,
+          "yaw": -145.1762134690453,
+          "type": "info",
+          "text": "Mieszadło elektryczne 1200W",
+          "URL": "https://www.realbud.com/pl/mieszadlo-elektryczne-1200w-2-biegi-3288.html"
+        },
+        {
+          "pitch": -26.305728087507624,
+          "yaw": -161.74481823050243,
+          "type": "info",
+          "text": "Zapasowe worki pionowe 30L",
+          "URL": "https://www.realbud.com/pl/zapasowe-worki-pionowe-30l-3-szt-do-a063030-3588.html"
+        },
+        {
+          "pitch": -50.335082245067426,
+          "yaw": -165.00515159109167,
+          "type": "info",
+          "text": "Odkurzacz 1600W",
+          "URL": "https://www.realbud.com/pl/odkurzacz-1600-w-3590.html"
+        },
+        {
+          "pitch": -50.11608322578595,
+          "yaw": -142.14344705211545,
+          "type": "info",
+          "text": "Odkurzacz 1200W",
+          "URL": "https://www.realbud.com/pl/odkurzacz-1200-w-3593.html"
+        },
+        {
+          "pitch": -46.70754609131879,
+          "yaw": 57.053678169438015,
+          "type": "info",
+          "text": "Tablice ostrzegawcze",
+          "URL": "https://www.realbud.com/pl/tasmy-i-tablice-ostrzegawcze-200"
+        },
+        {
+          "pitch": -49.508942856048975,
+          "yaw": 3.826139666680139,
+          "type": "info",
+          "text": "Spodnie robocze",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=spodnie&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -31.010851024496514,
+          "yaw": 0.5599145453308685,
+          "type": "info",
+          "text": "Bluzy robocze",
+          "URL": "https://realbud.com/pl/odziez-robocza-196"
+        },
+        {
+          "pitch": -31.010851024496514,
+          "yaw": 0.5599145453308685,
+          "type": "info",
+          "text": "Odzież robocza",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=bluza&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "12": {
+      "title": "Dedra",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/12.jpg",
+      "yaw": 118.34726348525649,
+      "hotSpots": [
+        {
+          "pitch": -29.568955841988597,
+          "yaw": 40.988906094504856,
+          "type": "scene",
+          "sceneId": "1"
+        },
+        {
+          "pitch": -30.20869251810257,
+          "yaw": 84.84922156354449,
+          "type": "scene",
+          "sceneId": "11",
+          "targetYaw": 101.50637508697947
+        },
+        {
+          "pitch": -29.806879414686108,
+          "yaw": -198.41631929194912,
+          "type": "scene",
+          "sceneId": "13",
+          "targetYaw": 176.09250380973987
+        },
+        {
+          "pitch": -27.62075764839476,
+          "yaw": -144.92947798857335,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": -14.825932860180622,
+          "yaw": -144.92947798857335,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -9.098890211974568,
+          "yaw": -144.92947798857335,
+          "type": "scene",
+          "sceneId": "25"
+        },
+        {
+          "pitch": 28.69753971547208,
+          "yaw": 100.04370279321452,
+          "type": "info",
+          "text": "Wiertarko-wkrętarka akumulatorowa 18V",
+          "URL": "https://www.realbud.com/pl/wiertarko-wkretarka-akumulatorowa-18v-3692.html"
+        },
+        {
+          "pitch": 30.094844209203853,
+          "yaw": 111.52315191908001,
+          "type": "info",
+          "text": "Wiertarko-wkrętarka akumulatorowa 12V",
+          "URL": "https://www.realbud.com/pl/wiertarko-wkretarka-akumulatorowa-12v-3691.html"
+        },
+        {
+          "pitch": 29.892987594982024,
+          "yaw": 133.59075868839238,
+          "type": "info",
+          "text": "Wkrętarka 18 V",
+          "URL": "https://www.realbud.com/pl/wkretarka-18-v-3693.html"
+        },
+        {
+          "pitch": 28.043860943978032,
+          "yaw": 146.9421621671665,
+          "type": "info",
+          "text": "Opalarka 1000/2000W",
+          "URL": "https://www.realbud.com/pl/opalarka-1000-2000-w-3733.html"
+        },
+        {
+          "pitch": 15.613383425928744,
+          "yaw": 96.9123818227715,
+          "type": "info",
+          "text": "Szlifierka kątowa Ø12,5 cm 860W",
+          "URL": "https://www.realbud.com/pl/szlifierka-katowa-o125-cm-860w-3285.html"
+        },
+        {
+          "pitch": 12.471341003730505,
+          "yaw": 106.0993198696244,
+          "type": "info",
+          "text": "Szlifierka kątowa Ø12,5 cm 950 W",
+          "URL": "https://www.realbud.com/pl/szlifierka-katowa-o125-cm-950-w-3729.html"
+        },
+        {
+          "pitch": 8.661890892846014,
+          "yaw": 116.49544347326417,
+          "type": "info",
+          "text": "Szlifierka kątowa Ø12,5 cm 1200 W",
+          "URL": "https://www.realbud.com/pl/szlifierka-katowa-o125-cm-1200-w-3730.html"
+        },
+        {
+          "pitch": 16.934098215862672,
+          "yaw": 143.78940751599183,
+          "type": "info",
+          "text": "Opalarka 2000 W płynna regulacja temperatury BMC",
+          "URL": "https://www.realbud.com/pl/opalarka-2000-w-plynna-regulacja-temperatury-bmc-3734.html"
+        },
+        {
+          "pitch": -8.752842263011013,
+          "yaw": 142.3925701575184,
+          "type": "info",
+          "text": "Młot udarowo-obrotowy SDS Max, 1500 W",
+          "URL": "https://www.realbud.com/pl/mlot-udarowo-obrotowy-sds-max-1500-w-3689.html"
+        },
+        {
+          "pitch": -34.87937896184207,
+          "yaw": 144.85456211761414,
+          "type": "info",
+          "text": "Młot udarowo-obrotowy, 1200 W",
+          "URL": "https://www.realbud.com/pl/mlot-udarowo-obrotowy-1200-w-3686.html"
+        },
+        {
+          "pitch": -30.579493195046812,
+          "yaw": 94.68074577429418,
+          "type": "info",
+          "text": "Szlifierka taśmowa, 920 W, 76x533 mm",
+          "URL": "https://www.realbud.com/pl/szlifierka-tasmowa-920-w-76x533-mm-3727.html"
+        },
+        {
+          "pitch": -19.270352611662318,
+          "yaw": 120.51521772717136,
+          "type": "info",
+          "text": "Szlifierki oscylacyjne",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=Szlifierka+oscylacyjna&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -29.41001649966065,
+          "yaw": 123.92819492202833,
+          "type": "info",
+          "text": "Narzędzie wielofunkcyjne 250 W, akcesoria, walizka",
+          "URL": "https://www.realbud.com/pl/narzedzie-wielofunkcyjne-250-w-akcesoria-walizka-3712.html"
+        },
+        {
+          "pitch": -45.87255858020442,
+          "yaw": 125.93177215983255,
+          "type": "info",
+          "text": "Strug elektryczny 1050 W szer. 82 mm",
+          "URL": "https://www.realbud.com/pl/strug-elektryczny-1050-w-szer-82-mm-3732.html"
+        },
+        {
+          "pitch": -48.34964624033419,
+          "yaw": 142.28509936614105,
+          "type": "info",
+          "text": "Młot udarowo-obrotowy, 710 W",
+          "URL": "https://www.realbud.com/pl/mlot-udarowo-obrotowy-710-w-3688.html"
+        },
+        {
+          "pitch": -42.58689918442027,
+          "yaw": 98.7474092319496,
+          "type": "info",
+          "text": "Pilarka ręczna 1200 W(piła 16 cm) max. 55 mm",
+          "URL": "https://www.realbud.com/pl/pilarka-reczna-1200-wpila-16-cm-max-55-mm-3694.html"
+        },
+        {
+          "pitch": -49.71474743924829,
+          "yaw": 101.52674954364095,
+          "type": "info",
+          "text": "Pilarka ręczna 1,5 kW 185 mm, grubość cięcia 62 mm",
+          "URL": "https://www.realbud.com/pl/pilarka-reczna-15-kw-185-mm-grubosc-ciecia-62-mm-3695.html"
+        },
+        {
+          "pitch": -54.33824703454955,
+          "yaw": 130.46875102105668,
+          "type": "info",
+          "text": "Młot wyburzeniowy 1600 W, 15kg",
+          "URL": "https://www.realbud.com/pl/mlot-wyburzeniowy-1600-w-15kg-3690.html"
+        }
+      ]
+    },
+    "13": {
+      "title": "Regał 5 i 6: Hufgard / Koelner",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/13.jpg",
+      "yaw": -8.134906746431636,
+      "hotSpots": [
+        {
+          "pitch": -29.369892217190227,
+          "yaw": 37.00610237948768,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -39.60581291433072,
+          "yaw": 178.76203270803896,
+          "type": "scene",
+          "sceneId": "14"
+        },
+        {
+          "pitch": -29.749898736383575,
+          "yaw": 178.76203270803896,
+          "type": "scene",
+          "sceneId": "15"
+        },
+        {
+          "pitch": -20.10761844010458,
+          "yaw": 178.76203270803896,
+          "type": "scene",
+          "sceneId": "16"
+        },
+        {
+          "pitch": -11.604056868551357,
+          "yaw": 178.75526752669964,
+          "type": "scene",
+          "sceneId": "17"
+        },
+        {
+          "pitch": -25.35051435598653,
+          "yaw": -53.54506575413596,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": 0.7005322974269774,
+          "yaw": 139.33177609901284,
+          "type": "info",
+          "text": "Weber.tec 901 5L",
+          "URL": "https://www.realbud.com/pl/webertec-901-2524.html"
+        },
+        {
+          "pitch": -16.48139995797495,
+          "yaw": 132.4834854378282,
+          "type": "info",
+          "text": "Weber.tec 901 30L",
+          "URL": "https://www.realbud.com/pl/webertec-901-3282.html"
+        },
+        {
+          "pitch": -24.932765600029537,
+          "yaw": 153.16807691474554,
+          "type": "info",
+          "text": "Weber.tec 824 (Superflex D1)",
+          "URL": "https://www.realbud.com/pl/webertec-824-20-kg-2529.html"
+        },
+        {
+          "pitch": -31.622277700630498,
+          "yaw": 147.2904774016272,
+          "type": "info",
+          "text": "Weber.rep 755 Zaprawa wygładzająca",
+          "URL": "https://www.realbud.com/pl/weberrep-755-3885.html"
+        },
+        {
+          "pitch": -30.26331272583421,
+          "yaw": 153.68116179138428,
+          "type": "info",
+          "text": "Weber.rep 753",
+          "URL": "https://www.realbud.com/pl/weberrep-753-3884.html"
+        },
+        {
+          "pitch": -38.227134218430656,
+          "yaw": 130.9009047837754,
+          "type": "info",
+          "text": "Weber Superflex 10 DEITERMANN 30L",
+          "URL": "https://www.realbud.com/pl/weber-superflex-10-deitermann-30l-2505.html"
+        },
+        {
+          "pitch": -37.287455632724175,
+          "yaw": 150.1494943907675,
+          "type": "info",
+          "text": "Weber.rep 751",
+          "URL": "https://www.realbud.com/pl/weberrep-751-3883.html"
+        },
+        {
+          "pitch": -10.306373767100492,
+          "yaw": 148.35021055260506,
+          "type": "info",
+          "text": "Weber.tec 822 (Superflex 1)",
+          "URL": "https://www.realbud.com/pl/webertec-822-8-kg-2527.html"
+        },
+        {
+          "pitch": -8.14738160562948,
+          "yaw": 152.6180444103084,
+          "type": "info",
+          "text": "Weber.prim 801",
+          "URL": "https://www.realbud.com/pl/weberprim-801-5l-2528.html"
+        },
+        {
+          "pitch": -8.397370586830377,
+          "yaw": 156.28891133153476,
+          "type": "info",
+          "text": "Weber.tec 828 (Superflex AB 75) ",
+          "URL": "https://www.realbud.com/pl/webertec-828-db-75-tasma-uszczelniajaca-50-mb-4427.html"
+        },
+        {
+          "pitch": 6.0237200158656705,
+          "yaw": 149.34125754793666,
+          "type": "info",
+          "text": "Weber.tec PU K 25 Masa uszczelniająca",
+          "URL": "https://www.realbud.com/pl/webertec-pu-k-25-3882.html"
+        },
+        {
+          "pitch": 2.2699337769831947,
+          "yaw": 57.44538556104319,
+          "type": "info",
+          "text": "Topolit Fix Rapid - zaprawa zalewowa o bardzo krótkim czasie obróbki i wiązania 5 kg",
+          "URL": "https://www.realbud.com/pl/topolit-fix-rapid-zaprawa-zalewowa-o-bardzo-krotkim-czasie-obrobki-i-wiazania-5-kg-1232.html"
+        },
+        {
+          "pitch": 3.516698238775006,
+          "yaw": 70.56394337612586,
+          "type": "info",
+          "text": "Topolit Fix Rapid - zaprawa zalewowa o bardzo krótkim czasie obróbki i wiązania 5 kg",
+          "URL": "https://www.realbud.com/pl/topolit-stopfzement-1-5-kg-1658.html"
+        },
+        {
+          "pitch": 4.344767578126596,
+          "yaw": 86.16952478820316,
+          "type": "info",
+          "text": "EuroGrout BV-T - Ekspansywna, samorozlewna zaprawa cementowa o uziarnieniu do 4 mm, 5 kg",
+          "URL": "https://www.realbud.com/pl/eurogrout-bv-t-ekspansywna-samorozlewna-zaprawa-cementowa-o-uziarnieniu-do-4-mm-5-kg-1657.html"
+        },
+        {
+          "pitch": -20.342277652511726,
+          "yaw": 81.28948158948192,
+          "type": "info",
+          "text": "Topolit Stopfzement 5, 5 kg",
+          "URL": "https://www.realbud.com/pl/topolit-stopfzement-5-5kg-1103.html"
+        },
+        {
+          "pitch": -19.78752647927333,
+          "yaw": 105.59653308835729,
+          "type": "info",
+          "text": "EuroCret® HM - Środek hydrofobizujący",
+          "URL": "https://www.realbud.com/pl/eurocret-hm-srodek-hydrofobizujacy-2088.html"
+        }
+      ]
+    },
+    "14": {
+      "title": "Regał 5 i 6: Weber / Koelner",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/14.jpg",
+      "yaw": -21.523679727728375,
+      "hotSpots": [
+        {
+          "pitch": -37.566611284381416,
+          "yaw": 151.5723230104967,
+          "type": "scene",
+          "sceneId": "13"
+        },
+        {
+          "pitch": -51.56626407777094,
+          "yaw": -22.734693598393346,
+          "type": "scene",
+          "sceneId": "15"
+        },
+        {
+          "pitch": -26.17613884547402,
+          "yaw": -22.734693598393346,
+          "type": "scene",
+          "sceneId": "16"
+        },
+        {
+          "pitch": -16.276455314522178,
+          "yaw": -22.734693598393346,
+          "type": "scene",
+          "sceneId": "17"
+        },
+        {
+          "pitch": 0.7005322974269774,
+          "yaw": -108.4455913514839,
+          "type": "info",
+          "text": "Weber.tec 901 5L",
+          "URL": "https://www.realbud.com/pl/webertec-901-2524.html"
+        },
+        {
+          "pitch": -16.48139995797495,
+          "yaw": -120.06801067759493,
+          "type": "info",
+          "text": "Weber.tec 901 30L",
+          "URL": "https://www.realbud.com/pl/webertec-901-3282.html"
+        },
+        {
+          "pitch": -45.41743231525843,
+          "yaw": -82.39163674508916,
+          "type": "info",
+          "text": "Weber.rep 755 Zaprawa wygładzająca",
+          "URL": "https://www.realbud.com/pl/weberrep-755-3885.html"
+        },
+        {
+          "pitch": -34.620944472849885,
+          "yaw": -63.23244869492069,
+          "type": "info",
+          "text": "Weber.tec 824 (Superflex D1)",
+          "URL": "https://www.realbud.com/pl/webertec-824-20-kg-2529.html"
+        },
+        {
+          "pitch": -41.130624858224174,
+          "yaw": -72.27600248468761,
+          "type": "info",
+          "text": "Weber.rep 753",
+          "URL": "https://www.realbud.com/pl/weberrep-753-3884.html"
+        },
+        {
+          "pitch": -40.62615296842639,
+          "yaw": -122.96361084632098,
+          "type": "info",
+          "text": "Weber Superflex 10 DEITERMANN 30L",
+          "URL": "https://www.realbud.com/pl/weber-superflex-10-deitermann-30l-2505.html"
+        },
+        {
+          "pitch": -47.235029018340164,
+          "yaw": -93.9430618893405,
+          "type": "info",
+          "text": "Weber.rep 751",
+          "URL": "https://www.realbud.com/pl/weberrep-751-3883.html"
+        },
+        {
+          "pitch": -18.80152997480795,
+          "yaw": -78.14686673846533,
+          "type": "info",
+          "text": "Weber.tec 822 (Superflex 1)",
+          "URL": "https://www.realbud.com/pl/webertec-822-8-kg-2527.html"
+        },
+        {
+          "pitch": -14.735042290392178,
+          "yaw": -66.07461018010605,
+          "type": "info",
+          "text": "Weber.prim 801",
+          "URL": "https://www.realbud.com/pl/weberprim-801-5l-2528.html"
+        },
+        {
+          "pitch": -14.697280607611265,
+          "yaw": -58.909699480124004,
+          "type": "info",
+          "text": "Weber.tec 828 (Superflex AB 75) ",
+          "URL": "https://www.realbud.com/pl/webertec-828-db-75-tasma-uszczelniajaca-50-mb-4427.html"
+        },
+        {
+          "pitch": 8.46231974676557,
+          "yaw": -73.8876240028261,
+          "type": "info",
+          "text": "Weber.tec PU K 25 Masa uszczelniająca",
+          "URL": "https://www.realbud.com/pl/webertec-pu-k-25-3882.html"
+        }
+      ]
+    },
+    "15": {
+      "title": "Regał 5 i 6: Weber / Koelner",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/15.jpg",
+      "yaw": -85.79013337996429,
+      "hotSpots": [
+        {
+          "pitch": -28.177099781465337,
+          "yaw": 87.73335128149677,
+          "type": "scene",
+          "sceneId": "13"
+        },
+        {
+          "pitch": -37.97357524307188,
+          "yaw": 87.73335128149677,
+          "type": "scene",
+          "sceneId": "14",
+          "targetYaw": 155.8143815485381
+        },
+        {
+          "pitch": -32.0256904803911,
+          "yaw": -82.40591897547206,
+          "type": "scene",
+          "sceneId": "16"
+        },
+        {
+          "pitch": -22.344537101052783,
+          "yaw": -82.40591897547206,
+          "type": "scene",
+          "sceneId": "17"
+        },
+        {
+          "pitch": -51.55277185022202,
+          "yaw": 174.14849013690633,
+          "type": "info",
+          "text": "Weber.rep 753",
+          "URL": "https://www.realbud.com/pl/weberrep-753-3884.html"
+        },
+        {
+          "pitch": -0.23672205969719026,
+          "yaw": 131.85828996755058,
+          "type": "info",
+          "text": "Weber.tec 901 5L",
+          "URL": "https://www.realbud.com/pl/webertec-901-2524.html"
+        },
+        {
+          "pitch": -14.881258111193066,
+          "yaw": 126.03017473510704,
+          "type": "info",
+          "text": "Weber.tec 901 30L",
+          "URL": "https://www.realbud.com/pl/webertec-901-3282.html"
+        },
+        {
+          "pitch": -18.46872819387692,
+          "yaw": -181.46421552277792,
+          "type": "info",
+          "text": "Weber.prim 801",
+          "URL": "https://www.realbud.com/pl/weberprim-801-5l-2528.html"
+        },
+        {
+          "pitch": -45.43525318756433,
+          "yaw": -214.7301004612762,
+          "type": "info",
+          "text": "Weber.rep 751",
+          "URL": "https://www.realbud.com/pl/weberrep-751-3883.html"
+        },
+        {
+          "pitch": -50.17098468089978,
+          "yaw": -201.9647067678747,
+          "type": "info",
+          "text": "Weber.rep 755 Zaprawa wygładzająca",
+          "URL": "https://www.realbud.com/pl/weberrep-755-3885.html"
+        },
+        {
+          "pitch": -32.86180684263597,
+          "yaw": 129.1963423175844,
+          "type": "info",
+          "text": "Weber Superflex 10 DEITERMANN 30L",
+          "URL": "https://www.realbud.com/pl/weber-superflex-10-deitermann-30l-2505.html"
+        },
+        {
+          "pitch": -17.80702820439068,
+          "yaw": -202.00409677388217,
+          "type": "info",
+          "text": "Weber.tec 822 (Superflex 1)",
+          "URL": "https://www.realbud.com/pl/webertec-822-8-kg-2527.html"
+        },
+        {
+          "pitch": -20.449849299812744,
+          "yaw": -165.41473935616838,
+          "type": "info",
+          "text": "Weber.tec 828 (Superflex AB 75) ",
+          "URL": "https://www.realbud.com/pl/webertec-828-db-75-tasma-uszczelniajaca-50-mb-4427.html"
+        },
+        {
+          "pitch": 14.664967013830994,
+          "yaw": -193.48505148778068,
+          "type": "info",
+          "text": "Weber.tec PU K 25 Masa uszczelniająca",
+          "URL": "https://www.realbud.com/pl/webertec-pu-k-25-3882.html"
+        },
+        {
+          "pitch": -46.90798537248314,
+          "yaw": 192.74598693418477,
+          "type": "info",
+          "text": "Weber.tec 824 (Superflex D1)",
+          "URL": "https://www.realbud.com/pl/webertec-824-20-kg-2529.html"
+        }
+      ]
+    },
+    "16": {
+      "title": "Regał 5 i 6: Corotop / Koelner",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/16.jpg",
+      "yaw": -84.79472461607618,
+      "hotSpots": [
+        {
+          "pitch": -20.08692694979177,
+          "yaw": 89.59093683739958,
+          "type": "scene",
+          "sceneId": "13"
+        },
+        {
+          "pitch": -30.08692694979177,
+          "yaw": 89.59093683739958,
+          "type": "scene",
+          "sceneId": "14",
+          "targetYaw": 155.8143815485381
+        },
+        {
+          "pitch": -38.19579876670522,
+          "yaw": 89.08199434476617,
+          "type": "scene",
+          "sceneId": "15",
+          "targetYaw": 89.57571880354122
+        },
+        {
+          "pitch": -32.520065087113764,
+          "yaw": -83.41150826795263,
+          "type": "scene",
+          "sceneId": "17"
+        },
+        {
+          "pitch": -10.290799525917356,
+          "yaw": 121.38711928506669,
+          "type": "info",
+          "text": "Weber/Deitermann",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=weber&submit_search=+Szukaj"
+        },
+        {
+          "pitch": -1.17255987736655448,
+          "yaw": -166.63544287946254,
+          "type": "info",
+          "text": "Corotop Power",
+          "URL": "https://www.realbud.com/pl/membrana-dachowa-corotop-power-250-15x50-m-1762.html"
+        },
+        {
+          "pitch": -1.1347849284029934,
+          "yaw": -149.4017253907035,
+          "type": "info",
+          "text": "Corotop Classic",
+          "URL": "https://www.realbud.com/pl/membrana-dachowa-corotop-classic-130-15x50-m-2496.html"
+        },
+        {
+          "pitch": 0,
+          "yaw": -134.45767147275342,
+          "type": "info",
+          "text": "Corotop Smart",
+          "URL": "https://www.realbud.com/pl/membrana-dachowa-corotop-smart-115-15x50-m-1757.html"
+        },
+        {
+          "pitch": -0.6841338177608531,
+          "yaw": -123.71522766064002,
+          "type": "info",
+          "text": "Corotop Red Strong",
+          "URL": "https://www.realbud.com/pl/membrana-dachowa-corotop-red-strong-180-15x50-m-1760.html"
+        },
+        {
+          "pitch": -22.912852177523888,
+          "yaw": -154.31715228121575,
+          "type": "info",
+          "text": "Taśma Coromix 50 mm",
+          "URL": "https://www.realbud.com/pl/tasma-do-membran-dachowych-coromix-20-mm50-mb-2465.html"
+        },
+        {
+          "pitch": -18.97705855598529,
+          "yaw": -137.55128635324633,
+          "type": "info",
+          "text": "Taśma Coromix 20 mm",
+          "URL": "https://www.realbud.com/pl/tasma-do-membran-dachowych-coromix-20-mm25-mb-2466.html"
+        },
+        {
+          "pitch": -13.15913895249668,
+          "yaw": -125.87264341830976,
+          "type": "info",
+          "text": "Taśma Corofix",
+          "URL": "https://www.realbud.com/3704-home_default/tasma-do-membran-dachowych-corofix-50-mm25-mb.jpg"
+        },
+        {
+          "pitch": -1.0389311886180415,
+          "yaw": -114.66279143651013,
+          "type": "info",
+          "text": "Secco",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=secco&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "17": {
+      "title": "Regał 5 i 6: Secco / Koelner",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/17.jpg",
+      "yaw": -101.89246940190029,
+      "hotSpots": [
+        {
+          "pitch": -21.895958101283547,
+          "yaw": -163.844610636246,
+          "type": "scene",
+          "sceneId": "7"
+        },
+        {
+          "pitch": -15.327439577045887,
+          "yaw": 77.12292986720341,
+          "type": "scene",
+          "sceneId": "14",
+          "targetYaw": 155.8143815485381
+        },
+        {
+          "pitch": -22.12533918045772,
+          "yaw": 77.293617308144,
+          "type": "scene",
+          "sceneId": "15",
+          "targetYaw": 89.57571880354122
+        },
+        {
+          "pitch": -34.313448519203575,
+          "yaw": 76.95225454520873,
+          "type": "scene",
+          "sceneId": "16",
+          "targetYaw": 91.22325215176205
+        },
+        {
+          "pitch": -25.18634765900552,
+          "yaw": -53.640090295945605,
+          "type": "scene",
+          "sceneId": "19",
+          "targeYaw": -73.19872207003338
+        },
+        {
+          "pitch": -9.448603649180937,
+          "yaw": 121.97173876038808,
+          "type": "info",
+          "text": "Corotop",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=corotop&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 10.062293629252846,
+          "yaw": 165.97993423753428,
+          "type": "info",
+          "text": "Taśma do folii w płynie",
+          "URL": "https://www.realbud.com/pl/tasma-do-folii-w-plynie-secco-830.html"
+        },
+        {
+          "pitch": -16.959265967458677,
+          "yaw": 176.99717980033554,
+          "type": "info",
+          "text": "Grunt pod folię w płynie",
+          "URL": "https://www.realbud.com/pl/grunt-pod-folie-w-plynie-secco-5-kg-1830.html"
+        },
+        {
+          "pitch": -15.087577583976204,
+          "yaw": 159.05318517264135,
+          "type": "info",
+          "text": "Folia w płynie Basic 4 kg",
+          "URL": "https://www.realbud.com/pl/folia-w-plynie-secco-basic-4-kg-1691.html"
+        },
+        {
+          "pitch": -37.237136805075686,
+          "yaw": 160.1067669412754,
+          "type": "info",
+          "text": "Folia w płynie Basic 7 kg",
+          "URL": "https://www.realbud.com/pl/folia-w-plynie-secco-basic-7-kg-599.html"
+        },
+        {
+          "pitch": -49.54137884933187,
+          "yaw": 190.09708583018573,
+          "type": "info",
+          "text": "Folia w płynie Basic 25 kg",
+          "URL": "https://www.realbud.com/pl/folia-w-plynie-secco-basic-25-kg-32.html"
+        },
+        {
+          "pitch": -47.067352261243265,
+          "yaw": 152.56439510646828,
+          "type": "info",
+          "text": "Folia w płynie Flexifol 2",
+          "URL": "https://www.realbud.com/pl/folia-w-plynie-dwuskladnikowa-secco-flexifol-2-20-kg-1829.html"
+        },
+        {
+          "pitch": 0.16944609248352463,
+          "yaw": -97.36359520289788,
+          "type": "info",
+          "text": "Instalacje wewnętrzne",
+          "URL": "https://www.realbud.com/pl/instalacje-wewnetrzne-15"
+        }
+      ]
+    },
+    "19": {
+      "title": "Regał 7 i 10: BlueDolphin / Instalacje wewnętrzne",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/19.jpg",
+      "yaw": 107.82676110517663,
+      "hotSpots": [
+        {
+          "pitch": -31.964640659417004,
+          "yaw": 89.82335997529589,
+          "type": "scene",
+          "sceneId": "17",
+          "targetYaw": 76.30015676895846
+        },
+        {
+          "pitch": -35.75433180818494,
+          "yaw": -71.00802463556464,
+          "type": "scene",
+          "sceneId": "20"
+        },
+        {
+          "pitch": -27.6637067472729,
+          "yaw": -71.00802463556464,
+          "type": "scene",
+          "sceneId": "21"
+        },
+        {
+          "pitch": -16.90626620181828,
+          "yaw": -71.00802463556464,
+          "type": "scene",
+          "sceneId": "22"
+        },
+        {
+          "pitch": -27.64829817946441,
+          "yaw": -151.94493377285707,
+          "type": "scene",
+          "sceneId": "28"
+        },
+        {
+          "pitch": 0.16944609248352463,
+          "yaw": -97.36359520289788,
+          "type": "info",
+          "text": "Lakma",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=lakma&submit_search=+Szukaj"
+        },
+        {
+          "pitch": 0.16944609248352463,
+          "yaw": -97.36359520289788,
+          "type": "info",
+          "text": "Lakma",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=lakma&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "20": {
+      "title": "Regał 7 i 8: BlueDolphin / Lakma",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/20.jpg",
+      "yaw": -137.61548118854134,
+      "hotSpots": [
+        {
+          "pitch": -34.76062331017762,
+          "yaw": 42.57576550950457,
+          "type": "scene",
+          "sceneId": "19",
+          "targetYaw": 96.77399581417644
+        },
+        {
+          "pitch": -29.50648601839045,
+          "yaw": -138.12758593445085,
+          "type": "scene",
+          "sceneId": "21"
+        },
+        {
+          "pitch": -21.32058072496936,
+          "yaw": -138.12758593445085,
+          "type": "scene",
+          "sceneId": "22",
+          "targetYaw": -139.36861655016654
+        },
+        {
+          "pitch": 8.461737456549347,
+          "yaw": 136.72054533972064,
+          "type": "info",
+          "text": "Silikon sanitarny",
+          "URL": "https://www.realbud.com/pl/silikon-sanitarny-300-ml-bezbarwny-1649.html"
+        },
+        {
+          "pitch": 6.234121380439855,
+          "yaw": 92.53585122182837,
+          "type": "info",
+          "text": "Silikon uniwersalny bezbarwny",
+          "URL": "https://www.realbud.com/pl/silikon-uniwersalny-300-ml-bezbarwny-1652.html"
+        },
+        {
+          "pitch": 8.326522821617225,
+          "yaw": 122.5337316184753,
+          "type": "info",
+          "text": "Silikon uniwersalny biały",
+          "URL": "https://www.realbud.com/pl/silikon-uniwersalny-280-ml-bialy-1651.html"
+        },
+        {
+          "pitch": 6.787279893602227,
+          "yaw": 102.8107171156391,
+          "type": "info",
+          "text": "Silikon sanitarny bezbarwny",
+          "URL": "https://www.realbud.com/pl/silikon-sanitarny-300-ml-bezbarwny-1649.html"
+        },
+        {
+          "pitch": 6.787279893602227,
+          "yaw": 102.8107171156391,
+          "type": "info",
+          "text": "Silikon sanitarny bezbarwny",
+          "URL": "https://www.realbud.com/pl/silikon-sanitarny-300-ml-bezbarwny-1649.html"
+        },
+        {
+          "pitch": 9.472262510064661,
+          "yaw": 148.0196822663268,
+          "type": "info",
+          "text": "Silikonowy klej do luster",
+          "URL": "https://www.realbud.com/pl/silikonowy-klej-do-luster-300-ml-3310.html"
+        },
+        {
+          "pitch": -26.531361538897553,
+          "yaw": 98.33548305501458,
+          "type": "info",
+          "text": "Akryl szpachlowy",
+          "URL": "https://www.realbud.com/pl/akryl-szpachlowy-bialy-310-ml-1644.html"
+        },
+        {
+          "pitch": -23.86211416387098,
+          "yaw": 88.05234047981436,
+          "type": "info",
+          "text": "Akryl do płyt GK",
+          "URL": "https://www.realbud.com/pl/akryl-uniwersalny-silak-a-do-plyt-gk-2660.html"
+        },
+        {
+          "pitch": -32.800582578772264,
+          "yaw": 145.17677801285325,
+          "type": "info",
+          "text": "Pianka pistoletowa niskoprężna",
+          "URL": "https://www.realbud.com/pl/pianka-pistoletowa-low-expansion-lakma-750-ml-37.html"
+        },
+        {
+          "pitch": -44.015611726511885,
+          "yaw": 91.18824404917058,
+          "type": "info",
+          "text": "Klej do styropianu i XPS Lakma Term",
+          "URL": "https://www.realbud.com/pl/pianka-pistoletowa-low-expansion-lakma-750-ml-37.html"
+        },
+        {
+          "pitch": -50.32806166254425,
+          "yaw": 138.2578945739389,
+          "type": "info",
+          "text": "Pianka pistoletowa Herkules",
+          "URL": "https://www.realbud.com/pl/poliuretanowy-klej-do-styropianu-i-xps-lakma-term-3313.html"
+        },
+        {
+          "pitch": 13.381127978317847,
+          "yaw": 177.91369934313136,
+          "type": "info",
+          "text": "Pistolet do pianki",
+          "URL": "https://www.realbud.com/pl/pistolet-do-piany-3088.html"
+        },
+        {
+          "pitch": -6.8042109359296985,
+          "yaw": 180.28797132793616,
+          "type": "info",
+          "text": "Czyścik do pianki",
+          "URL": "https://www.realbud.com/pl/czyscik-do-piany-lakma-mountflex-4138.html"
+        },
+        {
+          "pitch": -27.80220354390366,
+          "yaw": 179.04677570707463,
+          "type": "info",
+          "text": "Pianka wężykowa Herkules",
+          "URL": "https://www.realbud.com/pl/pianka-wezykowa-herkules-750-ml-3309.html"
+        },
+        {
+          "pitch": -46.520520023145465,
+          "yaw": 179.6211234242484,
+          "type": "info",
+          "text": "Pianka pistoletowa ognioochronna",
+          "URL": "https://www.realbud.com/pl/pianka-pistoletowa-ognioochronna-lakma-750-ml-1996.html"
+        }
+      ]
+    },
+    "21": {
+      "title": "Regał 7 i 8: BlueDolphin / Lakma",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/21.jpg",
+      "yaw": 156.26700488987774,
+      "hotSpots": [
+        {
+          "pitch": -20.70925076867053,
+          "yaw": -25.051165134431447,
+          "type": "scene",
+          "sceneId": "19"
+        },
+        {
+          "pitch": -34.62539182097287,
+          "yaw": -25.051165134431447,
+          "type": "scene",
+          "sceneId": "20",
+          "targetYaw": 42.55408058427381
+        },
+        {
+          "pitch": -37.2253734446528,
+          "yaw": 156.33175974974196,
+          "type": "scene",
+          "sceneId": "22"
+        },
+        {
+          "pitch": -20.231607499547295,
+          "yaw": 167.1212784041603,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": -20.231607499547295,
+          "yaw": 144.54417794607076,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": 11.299353210948269,
+          "yaw": 5.215839866781433,
+          "type": "info",
+          "text": "Pistolet do pianki",
+          "URL": "https://www.realbud.com/pl/pistolet-do-piany-3088.html"
+        },
+        {
+          "pitch": -4.325021369284117,
+          "yaw": 5.083845360232862,
+          "type": "info",
+          "text": "Czyścik do pianki",
+          "URL": "https://www.realbud.com/pl/czyscik-do-piany-lakma-mountflex-4138.html"
+        },
+        {
+          "pitch": -20.73436631050618,
+          "yaw": 3.7758120170225085,
+          "type": "info",
+          "text": "Pianka wężykowa Herkules",
+          "URL": "https://www.realbud.com/pl/pianka-wezykowa-herkules-750-ml-3309.html"
+        },
+        {
+          "pitch": -35.019534957308245,
+          "yaw": 2.262882712905332,
+          "type": "info",
+          "text": "Pianka pistoletowa ognioochronna",
+          "URL": "https://www.realbud.com/pl/pianka-pistoletowa-ognioochronna-lakma-750-ml-1996.html"
+        },
+        {
+          "pitch": 6.929781051435506,
+          "yaw": 23.50957752696044,
+          "type": "info",
+          "text": "Kauczukowy uszczelniacz dekarski (bezbarwny)",
+          "URL": "https://www.realbud.com/pl/kauczukowy-uszczelniacz-dekarski-300-ml-bezbarwny-1653.html"
+        },
+        {
+          "pitch": 6.929781051435506,
+          "yaw": 23.50957752696044,
+          "type": "info",
+          "text": "Klej montażowy Styrokol ECO",
+          "URL": "https://www.realbud.com/pl/klej-montazowy-styrokol-eco-3311.html"
+        },
+        {
+          "pitch": -30.14220139307688,
+          "yaw": 44.38856634569733,
+          "type": "info",
+          "text": "Kauczukowy uszczelniacz dekarski (brązowy)",
+          "URL": "https://www.realbud.com/pl/kauczukowy-uszczelniacz-dekarski-300-ml-grafitowy-1655.html?search_query=lakma&results=16"
+        },
+        {
+          "pitch": -27.067116147448807,
+          "yaw": 30.760163128187493,
+          "type": "info",
+          "text": "Kauczukowy uszczelniacz dekarski (grafitowy)",
+          "URL": "https://www.realbud.com/pl/pianka-pistoletowa-ognioochronna-lakma-750-ml-1996.html"
+        },
+        {
+          "pitch": 8.464874887339823,
+          "yaw": 65.2685835490107,
+          "type": "info",
+          "text": "Klej montażowy SBS",
+          "URL": "https://www.realbud.com/pl/klej-montazowy-sbs-bezowy-300-ml-3307.html?search_query=lakma&results=16"
+        },
+        {
+          "pitch": -30.370667740049363,
+          "yaw": 82.19033246368286,
+          "type": "info",
+          "text": "Akryl do płyt GK",
+          "URL": "https://www.realbud.com/pl/akryl-uniwersalny-silak-a-do-plyt-gk-2660.html"
+        },
+        {
+          "pitch": -53.14474862157758,
+          "yaw": 53.112099655480094,
+          "type": "info",
+          "text": "Pianka pistoletowa niskoprężna",
+          "URL": "https://www.realbud.com/pl/pianka-pistoletowa-low-expansion-lakma-750-ml-37.html"
+        },
+        {
+          "pitch": -13.428060059797655,
+          "yaw": 121.211590184231,
+          "type": "info",
+          "text": "Soudal",
+          "URL": "https://www.realbud.com/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=soud&submit_search=+Szukaj"
+        }
+      ]
+    },
+    "22": {
+      "title": "Regał 7 i 8: BlueDolphin / Lakma",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/22.jpg",
+      "yaw": -158.12073448786717,
+      "hotSpots": [
+        {
+          "pitch": -15.803113636290794,
+          "yaw": 18.797605725717016,
+          "type": "scene",
+          "sceneId": "19"
+        },
+        {
+          "pitch": -24.50566883265993,
+          "yaw": 18.797605725717016,
+          "type": "scene",
+          "sceneId": "20",
+          "targetYaw": 42.55408058427381
+        },
+        {
+          "pitch": -33.718315844799676,
+          "yaw": 18.797605725717016,
+          "type": "scene",
+          "sceneId": "21",
+          "targetYaw": -23.951494415374746
+        },
+        {
+          "pitch": -29.03611648423217,
+          "yaw": -126.06416161016782,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": -29.03611648423217,
+          "yaw": -185.7207726233709,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": 22.100121960983394,
+          "yaw": 52.89470254758104,
+          "type": "info",
+          "text": "Pianka węzykowa Soudabond Easy",
+          "URL": "https://www.realbud.com/pl/pianka-klej-wezykowa-soudabond-easy-750-ml-1813.html"
+        },
+        {
+          "pitch": -4.042684779982449,
+          "yaw": 50.82807733885024,
+          "type": "info",
+          "text": "Klej do EPS i XPS",
+          "URL": "https://www.realbud.com/pl/klej-do-styropianu-eps-i-xps-poliuretanowy-750-ml-71.html"
+        },
+        {
+          "pitch": -33.949359326655326,
+          "yaw": 45.60844864360571,
+          "type": "info",
+          "text": "Pianka węzykowa Soudabond Easy",
+          "URL": "https://www.realbud.com/pl/pianka-klej-wezykowa-soudabond-easy-750-ml-1813.html"
+        },
+        {
+          "pitch": -33.949359326655326,
+          "yaw": 45.60844864360571,
+          "type": "info",
+          "text": "Klej SikaBond-T2",
+          "URL": "https://www.realbud.com/pl/sikabond-t2-310-ml-bialy-1081.html"
+        },
+        {
+          "pitch": -37.23384302840597,
+          "yaw": 49.63690149784882,
+          "type": "info",
+          "text": "Klej Sika MaxTack",
+          "URL": "https://www.realbud.com/pl/sika-maxtack-300-ml-1083.html"
+        },
+        {
+          "pitch": -38.72672249455099,
+          "yaw": 51.62633909889356,
+          "type": "info",
+          "text": "Klej Sikaflex-11FC+",
+          "URL": "https://www.realbud.com/pl/sikaflex-11fc-300ml-bialy-1092.html"
+        }
+      ]
+    },
+    "23": {
+      "title": "Rawlplug",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/23.jpg",
+      "yaw": 26.639032927879562,
+      "hotSpots": [
+        {
+          "pitch": -15.016684041988327,
+          "yaw": -56.43368067213417,
+          "type": "scene",
+          "sceneId": "1"
+        },
+        {
+          "pitch": -25.332867604950703,
+          "yaw": -56.43368067213417,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -30.733733209255863,
+          "yaw": -13.290148616907373,
+          "type": "scene",
+          "sceneId": "13",
+          "targetYaw": 177.08601972112746
+        },
+        {
+          "pitch": -37.43324254054273,
+          "yaw": 69.16552445109447,
+          "type": "scene",
+          "sceneId": "22",
+          "targetYaw": 18.956409704354698
+        },
+        {
+          "pitch": -30.614799196200604,
+          "yaw": 129.80664767016418,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -19.078349226481254,
+          "yaw": 126.41203188125124,
+          "type": "scene",
+          "sceneId": "25"
+        }
+      ]
+    },
+    "24": {
+      "title": "BlueDolphin",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/24.jpg",
+      "yaw": 61.19364733226849,
+      "hotSpots": [
+        {
+          "pitch": -7.9704820792414965,
+          "yaw": -20.438008003638554,
+          "type": "scene",
+          "sceneId": "1"
+        },
+        {
+          "pitch": -14.472621631032334,
+          "yaw": -20.438008003638554,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -35.87502426915436,
+          "yaw": 20.484855849509753,
+          "type": "scene",
+          "sceneId": "22",
+          "targetYaw": 18.956409704354698
+        },
+        {
+          "pitch": -31.39374998761102,
+          "yaw": -20.438008003638554,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": -34.444417089149894,
+          "yaw": 149.45363175862352,
+          "type": "scene",
+          "sceneId": "25"
+        },
+        {
+          "pitch": -22.209633922113852,
+          "yaw": 107.45658236769346,
+          "type": "scene",
+          "sceneId": "26"
+        }
+      ]
+    },
+    "25": {
+      "title": "Wyprzedaż",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/25.jpg",
+      "yaw": 48.725796245304295,
+      "hotSpots": [
+        {
+          "pitch": -6.270482079241496,
+          "yaw": 15.438008003638554,
+          "type": "scene",
+          "sceneId": "1"
+        },
+        {
+          "pitch": -10.472621631032334,
+          "yaw": 15.438008003638554,
+          "type": "scene",
+          "sceneId": "12"
+        },
+        {
+          "pitch": -19.67502426915436,
+          "yaw": 15.484855849509753,
+          "type": "scene",
+          "sceneId": "23"
+        },
+        {
+          "pitch": -37.39374998761102,
+          "yaw": 15.438008003638554,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -34.423653008427436,
+          "yaw": 102.19053905378983,
+          "type": "scene",
+          "sceneId": "26"
+        },
+        {
+          "pitch": -25.423653008427436,
+          "yaw": 102.19053905378983,
+          "type": "scene",
+          "sceneId": "27"
+        },
+        {
+          "pitch": -18.423653008427436,
+          "yaw": 102.19053905378983,
+          "type": "scene",
+          "sceneId": "28"
+        },
+        {
+          "pitch": -15.095875823018101,
+          "yaw": -81.45417513401289,
+          "type": "info",
+          "text": "Wyjście na magazyn",
+          "URL": "https://www.realbud.com/pl/content/22-wirtualny-spacer"
+        },
+        {
+          "pitch": -8.539762004098064,
+          "yaw": -170.4981465125165,
+          "type": "info",
+          "text": "Promocje i wyprzedaże",
+          "URL": "https://www.realbud.com/pl/promocje--58"
+        }
+      ]
+    },
+    "26": {
+      "title": "Farby, rozcieńczalniki",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/26.jpg",
+      "yaw": 84.66691340429256,
+      "hotSpots": [
+        {
+          "pitch": -31.22145570746457,
+          "yaw": -59.857960165681675,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -40.054347208867334,
+          "yaw": -94.81277989061147,
+          "type": "scene",
+          "sceneId": "25"
+        },
+        {
+          "pitch": -29.197715091118102,
+          "yaw": 92.95424891626917,
+          "type": "scene",
+          "sceneId": "27"
+        },
+        {
+          "pitch": -20.722508614105934,
+          "yaw": 92.95424891626917,
+          "type": "scene",
+          "sceneId": "28"
+        },
+        {
+          "pitch": -9.935875823018101,
+          "yaw": -98.45417513401289,
+          "type": "info",
+          "text": "Wyjście na magazyn",
+          "URL": "https://www.realbud.com/pl/content/22-wirtualny-spacer"
+        },
+        {
+          "pitch": -4.5884318499749845,
+          "yaw": -125.5932637516532,
+          "type": "info",
+          "text": "Promocje i wyprzedaże",
+          "URL": "https://www.realbud.com/pl/promocje--58"
+        },
+        {
+          "pitch": 11.533497586183447,
+          "yaw": 25.58233714805586,
+          "type": "info",
+          "text": "Denaturat 0,5L",
+          "URL": "https://www.realbud.com/pl/denaturat-05l-1860.html"
+        },
+        {
+          "pitch": -4.92464955210104,
+          "yaw": 26.238656783822105,
+          "type": "info",
+          "text": "Emalia Extramal",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -44.40881615545272,
+          "yaw": 24.629553248884005,
+          "type": "info",
+          "text": "Zimowy płyn do zapraw klejowych 5L",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -32.63445367185274,
+          "yaw": 13.863605271102529,
+          "type": "info",
+          "text": "Rozpuszczalnik uniwersalny 5L",
+          "URL": "https://www.realbud.com/pl/rozpuszczalnik-uniwersalny-5l-2031.html"
+        },
+        {
+          "pitch": -44.77760585610302,
+          "yaw": -15.948725170819792,
+          "type": "info",
+          "text": "Włókno do betonu 600 g",
+          "URL": "https://www.realbud.com/pl/belmix-wlokno-do-betonu-600-g-26.html"
+        },
+        {
+          "pitch": -46.47758171506514,
+          "yaw": 1.1412935298822662,
+          "type": "info",
+          "text": "Gips szpachlowy UNIFLOTT 5 kg",
+          "URL": "https://www.realbud.com/pl/gips-szpachlowy-uniflott-5-kg-1831.html"
+        },
+        {
+          "pitch": -1.165930697478826,
+          "yaw": 46.2845050867642,
+          "type": "info",
+          "text": "Emalia Extramal",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -16.955386754210057,
+          "yaw": 50.50791190029743,
+          "type": "info",
+          "text": "Tynk mozaikowy, akrylowy MOZAIKA",
+          "URL": "https://www.realbud.com/pl/tynk-mozaikowy-akrylowy-mozaika-3341.html"
+        },
+        {
+          "pitch": -27.872250534515114,
+          "yaw": 56.468637121213646,
+          "type": "info",
+          "text": "Zimowa domieszka do zapraw 5L",
+          "URL": "https://www.realbud.com/pl/zimowa-domieszka-do-zapraw-5-l-2514.html"
+        }
+      ]
+    },
+    "27": {
+      "title": "Farby, plastyfikatory",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/27.jpg",
+      "yaw": 68.85744812964867,
+      "hotSpots": [
+        {
+          "pitch": -21.06385697047341,
+          "yaw": -64.53943278459599,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -27.679651801348772,
+          "yaw": -82.33955118712906,
+          "type": "scene",
+          "sceneId": "25"
+        },
+        {
+          "pitch": -40.25196943614205,
+          "yaw": -81.80360429080362,
+          "type": "scene",
+          "sceneId": "26",
+          "targetYaw": -91.76529932764784
+        },
+        {
+          "pitch": -33.70153802622532,
+          "yaw": 97.62403460136554,
+          "type": "scene",
+          "sceneId": "28"
+        },
+        {
+          "pitch": -8.095875823018101,
+          "yaw": -87.45417513401289,
+          "type": "info",
+          "text": "Wyjście na magazyn",
+          "URL": "https://www.realbud.com/pl/content/22-wirtualny-spacer"
+        },
+        {
+          "pitch": -3.8121145750000096,
+          "yaw": -99.8980214746504,
+          "type": "info",
+          "text": "Promocje i wyprzedaże",
+          "URL": "https://www.realbud.com/pl/promocje--58"
+        },
+        {
+          "pitch": 11.305052346979855,
+          "yaw": -2.1685130482280974,
+          "type": "info",
+          "text": "Denaturat 0,5L",
+          "URL": "https://www.realbud.com/pl/denaturat-05l-1860.html"
+        },
+        {
+          "pitch": -2.845020593773044,
+          "yaw": 8.3528372792447,
+          "type": "info",
+          "text": "Emalia Extramal",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -41.0703159782837,
+          "yaw": -21.35742391352767,
+          "type": "info",
+          "text": "Zimowy płyn do zapraw klejowych 5L",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -42.32539880983956,
+          "yaw": -5.348491144066755,
+          "type": "info",
+          "text": "Rozpuszczalnik uniwersalny 5L",
+          "URL": "https://www.realbud.com/pl/rozpuszczalnik-uniwersalny-5l-2031.html"
+        },
+        {
+          "pitch": -29.9100011700985,
+          "yaw": -44.26802280287775,
+          "type": "info",
+          "text": "Włókno do betonu 600 g",
+          "URL": "https://www.realbud.com/pl/belmix-wlokno-do-betonu-600-g-26.html"
+        },
+        {
+          "pitch": -36.567559906597474,
+          "yaw": -33.86350299724603,
+          "type": "info",
+          "text": "Gips szpachlowy UNIFLOTT 5 kg",
+          "URL": "https://www.realbud.com/pl/gips-szpachlowy-uniflott-5-kg-1831.html"
+        },
+        {
+          "pitch": -22.701765496925088,
+          "yaw": 24.422563744873106,
+          "type": "info",
+          "text": "Tynk mozaikowy, akrylowy MOZAIKA",
+          "URL": "https://www.realbud.com/pl/tynk-mozaikowy-akrylowy-mozaika-3341.html"
+        },
+        {
+          "pitch": -40.239266600850186,
+          "yaw": 17.6634639299989,
+          "type": "info",
+          "text": "TERMOBET - plastyfikator do podłogówki 5L",
+          "URL": "https://www.realbud.com/pl/termobet-plastyfikator-do-podlogowki-5l-463.html"
+        },
+        {
+          "pitch": -39.09979968366996,
+          "yaw": 35.49099995253242,
+          "type": "info",
+          "text": "Zimowa domieszka do zapraw 5L",
+          "URL": "https://www.realbud.com/pl/zimowa-domieszka-do-zapraw-5-l-2514.html"
+        },
+        {
+          "pitch": -29.762098285491934,
+          "yaw": -10.456744219009906,
+          "type": "info",
+          "text": "HYDROFLUX - wodouszczelniacz do betonu 5L",
+          "URL": "https://www.realbud.com/pl/hydroflux-wodouszczelniacz-do-betonu-5l-465.html"
+        },
+        {
+          "pitch": -31.664417639915275,
+          "yaw": 51.74321407125975,
+          "type": "info",
+          "text": "Wapno w płynie 5L",
+          "URL": "https://www.realbud.com/pl/wapno-w-plynie-5l-1073.html"
+        },
+        {
+          "pitch": 11.574899460019884,
+          "yaw": 27.724425848543532,
+          "type": "info",
+          "text": "Zimowy plastyfikator do betonu 5L",
+          "URL": "https://www.realbud.com/pl/zimowy-plastyfikator-do-betonu-5l-2516.html"
+        },
+        {
+          "pitch": 8.113540733847689,
+          "yaw": 54.45711817391032,
+          "type": "info",
+          "text": "Farba lateksowa SUPRA W Plus",
+          "URL": "https://www.realbud.com/pl/farba-lateksowa-supra-w-plus-3340.html"
+        },
+        {
+          "pitch": -11.35461196538679,
+          "yaw": 54.75143187843376,
+          "type": "info",
+          "text": "Farba akrylowa EXTRA BIEL wewnętrzna",
+          "URL": "https://www.realbud.com/pl/farba-akrylowa-extra-biel-wewnetrzna-3339.html"
+        },
+        {
+          "pitch": -24.16945852993037,
+          "yaw": 45.39403661188222,
+          "type": "info",
+          "text": "Farba lateksowa KUCHNIA ŁAZIENKA wewnętrzna",
+          "URL": "https://www.realbud.com/pl/farba-lateksowa-kuchnia-lazienka-wewnetrzna-3342.html"
+        },
+        {
+          "pitch": -19.335702094265574,
+          "yaw": 57.22035317618725,
+          "type": "info",
+          "text": "Farba podkładowa GRUNT LATEKSOWY",
+          "URL": "https://www.realbud.com/pl/farba-podkladowa-grunt-lateksowy-3344.html"
+        }
+      ]
+    },
+    "28": {
+      "title": "Imprefarb",
+      "type": "equirectangular",
+      "autoLoad": true,
+      "hotSpotDebug": false,
+      "showControls": true,      "hfov": 200,
+      "panorama": "../gal/28.jpg",
+      "yaw": -26.67797678829288,
+      "hotSpots": [
+        {
+          "pitch": -19.2376235505197,
+          "yaw": -40.994163705965754,
+          "type": "scene",
+          "sceneId": "19",
+          "targeYaw": -73.19872207003338
+        },
+        {
+          "pitch": -17.625568256127757,
+          "yaw": -154.11281530164504,
+          "type": "scene",
+          "sceneId": "24"
+        },
+        {
+          "pitch": -20.411382255568356,
+          "yaw": -167.67323297106307,
+          "type": "scene",
+          "sceneId": "25"
+        },
+        {
+          "pitch": -30.190487889180805,
+          "yaw": -167.67323297106307,
+          "type": "scene",
+          "sceneId": "26",
+          "targetYaw": -91.76529932764784
+        },
+        {
+          "pitch": -38.74813026061549,
+          "yaw": -167.67323297106307,
+          "type": "scene",
+          "sceneId": "27",
+          "targetYaw": -53.04047842152407
+        },
+        {
+          "pitch": -8.336734101743438,
+          "yaw": -172.23173144273125,
+          "type": "info",
+          "text": "Magazyn",
+          "URL": "https://www.realbud.com/pl/content/22-wirtualny-spacer"
+        },
+        {
+          "pitch": 7.823748985897581,
+          "yaw": -124.04937956102806,
+          "type": "info",
+          "text": "Denaturat 0,5L",
+          "URL": "https://www.realbud.com/pl/denaturat-05l-1860.html"
+        },
+        {
+          "pitch": -1.477084036292175,
+          "yaw": -112.95538669288669,
+          "type": "info",
+          "text": "Emalia Extramal",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -26.449374301097716,
+          "yaw": -132.79494434775907,
+          "type": "info",
+          "text": "Zimowy płyn do zapraw klejowych 5L",
+          "URL": "https://www.realbud.com/pl/emalia-extramal-10l-3888.html"
+        },
+        {
+          "pitch": -29.670980854226308,
+          "yaw": -125.78554957974545,
+          "type": "info",
+          "text": "Rozpuszczalnik uniwersalny 5L",
+          "URL": "https://www.realbud.com/pl/rozpuszczalnik-uniwersalny-5l-2031.html"
+        },
+        {
+          "pitch": -20.757723115476463,
+          "yaw": -142.83648746455532,
+          "type": "info",
+          "text": "Włókno do betonu 600 g",
+          "URL": "https://www.realbud.com/pl/belmix-wlokno-do-betonu-600-g-26.html"
+        },
+        {
+          "pitch": -24.233519425620027,
+          "yaw": -138.37307016923407,
+          "type": "info",
+          "text": "Gips szpachlowy UNIFLOTT 5 kg",
+          "URL": "https://www.realbud.com/pl/gips-szpachlowy-uniflott-5-kg-1831.html"
+        },
+        {
+          "pitch": -18.450365945363004,
+          "yaw": -104.46664235139707,
+          "type": "info",
+          "text": "Tynk mozaikowy, akrylowy MOZAIKA",
+          "URL": "https://www.realbud.com/pl/tynk-mozaikowy-akrylowy-mozaika-3341.html"
+        },
+        {
+          "pitch": -31.867798686017444,
+          "yaw": -111.97828898104284,
+          "type": "info",
+          "text": "TERMOBET - plastyfikator do podłogówki 5L",
+          "URL": "https://www.realbud.com/pl/termobet-plastyfikator-do-podlogowki-5l-463.html"
+        },
+        {
+          "pitch": -35.93468028039467,
+          "yaw": -99.70915504995268,
+          "type": "info",
+          "text": "Zimowa domieszka do zapraw 5L",
+          "URL": "https://www.realbud.com/pl/zimowa-domieszka-do-zapraw-5-l-2514.html"
+        },
+        {
+          "pitch": -19.0545265202663,
+          "yaw": -126.03575217957335,
+          "type": "info",
+          "text": "HYDROFLUX - wodouszczelniacz do betonu 5L",
+          "URL": "https://www.realbud.com/pl/hydroflux-wodouszczelniacz-do-betonu-5l-465.html"
+        },
+        {
+          "pitch": -37.44978093155526,
+          "yaw": -75.82825629447352,
+          "type": "info",
+          "text": "Wapno w płynie 5L",
+          "URL": "https://www.realbud.com/pl/wapno-w-plynie-5l-1073.html"
+        },
+        {
+          "pitch": 10.198010739983012,
+          "yaw": -105.96266646402904,
+          "type": "info",
+          "text": "Zimowy plastyfikator do betonu 5L",
+          "URL": "https://www.realbud.com/pl/zimowy-plastyfikator-do-betonu-5l-2516.html"
+        },
+        {
+          "pitch": 10.213507508776825,
+          "yaw": -71.69528440770577,
+          "type": "info",
+          "text": "Farba lateksowa SUPRA W Plus",
+          "URL": "https://www.realbud.com/pl/farba-lateksowa-supra-w-plus-3340.html"
+        },
+        {
+          "pitch": -14.690477692384336,
+          "yaw": -74.87766801035548,
+          "type": "info",
+          "text": "Farba akrylowa EXTRA BIEL wewnętrzna",
+          "URL": "https://www.realbud.com/pl/farba-akrylowa-extra-biel-wewnetrzna-3339.html"
+        },
+        {
+          "pitch": -26.17347907287149,
+          "yaw": -83.08026451224725,
+          "type": "info",
+          "text": "Farba lateksowa KUCHNIA ŁAZIENKA wewnętrzna",
+          "URL": "https://www.realbud.com/pl/farba-lateksowa-kuchnia-lazienka-wewnetrzna-3342.html"
+        },
+        {
+          "pitch": -25.055896187763796,
+          "yaw": -63.311106191700055,
+          "type": "info",
+          "text": "Farba podkładowa GRUNT LATEKSOWY",
+          "URL": "https://www.realbud.com/pl/farba-podkladowa-grunt-lateksowy-3344.html"
+        },
+        {
+          "pitch": -0.5224791323147115,
+          "yaw": -12.906778811148545,
+          "type": "info",
+          "text": "Mieszalnik farb i tynków Weber"
+        }
+      ]
+    },
+    "pond": {
+      "title": "Jordan Pond",
+      "panorama": "./examplepano.jpg",
+      "hotSpots": [
+        {
+          "pitch": 0,
+          "yaw": 100,
+          "type": "scene",
+          "text": "Pond (cube)",
+          "sceneId": "pondCube"
+        }
+      ]
+    }
+  }
+}
